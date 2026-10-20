@@ -1,15 +1,22 @@
-## # Hai, saya Damia Iman 👋
+<div align="center">
+
+<!-- Gambar Profil Anda -->
+<img src="profile.png" width="180" height="180" style="border-radius: 50%;" alt="Gambar Damia Iman">
+
+# Hai, saya Damia Iman 👋
 
 Selamat datang ke profil GitHub saya! Saya seorang yang berminat dalam dunia pengaturcaraan dan pembangunan perisian.
+
+</div>
 
 ---
 
 ### 🚀 Mengenai Saya
 - 🎓 **Pendidikan / Status:** Sedang belajar pengaturcaraan & teknologi.
-- 💡 **Minat Utama:** Pembangunan Web / Pembangunan Perisian / Sains Data *(pilih yang berkenaan)*.
-- 🌱 **Sedang Mempelajari:** Git, GitHub, dan [Nama Bahasa Pengaturcaraan, contoh: Python / JavaScript].
-- 💬 **Tanya Saya Tentang:** Asas pengaturcaraan atau topik yang saya pelajari.
-- 📬 **Hubungi Saya:** [Emel Anda] | [Akaun LinkedIn Anda]
+- 💡 **Minat Utama:** Pembangunan Web, Pembangunan Perisian, dan Sains Data.
+- 🌱 **Sedang Mempelajari:** Git, GitHub, Python, dan JavaScript.
+- 💬 **Tanya Saya Tentang:** Asas pengaturcaraan atau topik yang saya sedang pelajari.
+- 📬 **Hubungi Saya:** [Tulis Emel Anda di Sini] | [Pautan LinkedIn Anda]
 
 ---
 
@@ -21,19 +28,4 @@ Selamat datang ke profil GitHub saya! Saya seorang yang berminat dalam dunia pen
 ---
 
 ### ⚡ Sifat Unik / 'Fun Fact'
-- Apabila tidak menaip kod, saya suka [Hobi anda, contoh: membaca / mendengar muzik / berkebun]!
-
-<!--
-**damiaiman-hue/damiaiman-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Apabila tidak bekerja, minat dan hobi utama saya tetap **menulis kod (coding)** dan menerokai teknologi baharu!
