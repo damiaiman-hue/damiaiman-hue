@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Gambar Profil Anda -->
-<img src="profile.png" width="180" height="180" style="border-radius: 50%;" alt="Gambar Damia Iman">
+<img src="[profile.png](https://github.com/damiaiman-hue/damiaiman-hue/blob/main/2B905847-B9BE-4D8D-8B04-08F45E325E0B.png)" width="180" height="180" style="border-radius: 50%;" alt="Gambar Damia Iman">
 
 # Hai, saya Damia Iman 👋
 
