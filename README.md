@@ -1,33 +1,30 @@
 <div align="center">
+<img src="https://raw.githubusercontent.com/damiaiman-hue/damiaiman-hue/main/2B905847-B9BE-4D8D-8B04-08F45E325E0B.png" width="180" height="180" style="border-radius: 50%;" alt="Damia Iman">
 
-<!-- Gambar Profil Anda -->
-<img src="<div align="center">
-  <img src="https://raw.githubusercontent.com/damiaiman-hue/damiaiman-hue/main/2B905847-B9BE-4D8D-8B04-08F45E325E0B.png" width="180" height="180" style="border-radius: 50%;" alt="Gambar Damia Iman">
-</div>" width="180" height="180" style="border-radius: 50%;" alt="Gambar Damia Iman">
+Hello, I’m Damia Iman! 👋
 
-# Hai, saya Damia Iman 👋
-
-Selamat datang ke profil GitHub saya! Saya seorang yang berminat dalam dunia pengaturcaraan dan pembangunan perisian.
+Welcome to my GitHub profile! I’m someone who is passionate about programming and software development.
 
 </div>
 
----
+⸻
 
-### 🚀 Mengenai Saya
-- 🎓 **Pendidikan / Status:** Sedang belajar pengaturcaraan & teknologi.
-- 💡 **Minat Utama:** Pembangunan Web, Pembangunan Perisian, dan Sains Data.
-- 🌱 **Sedang Mempelajari:** Git, GitHub, Python, dan JavaScript.
-- 💬 **Tanya Saya Tentang:** Asas pengaturcaraan atau topik yang saya sedang pelajari.
-- 📬 **Hubungi Saya:** [Tulis Emel Anda di Sini] | [Pautan LinkedIn Anda]
+🚀 About Me
 
----
+* 🎓 Education / Status: Currently studying data engineering at Universiti Teknologi Malaysia.
+* 💡 Main Interests: Web Development and Software Development.
+* 🌱 Currently Learning: Git, GitHub, C++ and AWS Cloud.
+* 📬 Contact Me: damiaiman@graduate.utm.my 
 
-### 🛠️ Kemahiran & Alat (Skills & Tools)
-- **Bahasa Pengaturcaraan:** HTML, CSS, JavaScript, Python
-- **Kawalan Versi (Version Control):** Git & GitHub
-- **Penyunting Kod:** VS Code
+⸻
 
----
+🛠️ Skills & Tools
 
-### ⚡ Sifat Unik / 'Fun Fact'
-- Apabila tidak bekerja, minat dan hobi utama saya tetap **menulis kod (coding)** dan menerokai teknologi baharu!
+* Programming Languages: HTML, C++, JavaScript, Python
+* Version Control: Git & GitHub
+
+⸻
+
+⚡ Fun Fact
+
+* Outside of my studies, I enjoy exploring alot! So anyone who enjoys it aswell, hit me up so we can adventure together 😼
